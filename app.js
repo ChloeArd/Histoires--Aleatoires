@@ -1,4 +1,4 @@
-document.getElementById("button1").addEventListener("click", function aleatoire () {
+document.getElementById("button1").addEventListener("click", function() {
     let name1 = ["Johnny Halliday", "Donald Trump", "Elizabeth II ", "Marylin Monroe", "Didier Deschamps", "Christiano Ronaldo"];
     let object = ["raquette", "balaie", "brosse à dent", "parapluie", "marteau", "table de tennis", "chaise", "télé"];
     let temperature = ["froid", "chaud", "nuageux", "pluvieux", "orageux"];
